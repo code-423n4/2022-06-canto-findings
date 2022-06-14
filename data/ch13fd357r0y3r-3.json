@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "ch13fd357r0y3r",
+  "address": "0xBA23dfd7cCCD3587A1b8909dd5BcCfD92aCeAE6f",
+  "risk": "2",
+  "title": "No Admin Variable Declared",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/3"
+}
