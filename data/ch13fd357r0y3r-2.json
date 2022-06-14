@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "ch13fd357r0y3r",
+  "address": "0xBA23dfd7cCCD3587A1b8909dd5BcCfD92aCeAE6f",
+  "risk": "3",
+  "title": "Improper Access control on Send Fund function",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/2"
+}
