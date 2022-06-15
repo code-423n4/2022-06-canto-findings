@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "technicallyty",
+  "address": "0x710FD6e84Bbd947d000C7300506B46F03b748F45",
+  "risk": "3",
+  "title": "Module Account Is Never Set",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/7"
+}
