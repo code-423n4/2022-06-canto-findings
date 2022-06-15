@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "0xDjango",
+  "address": "0x886241e011A6C148bdD96B097EB27962f8A1c5F0",
+  "risk": "3",
+  "title": "Incorrect approval logic in `WETH.sol` can lead to attacker stealing anyone's funds",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/17"
+}
