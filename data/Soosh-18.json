@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "Soosh",
+  "address": "0xdFb7c8bee3F61B6a2F7c616F850613436B7A747f",
+  "risk": "2",
+  "title": "getWETHAddress() in Comptroller.sol returns COMP token address",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/18"
+}
