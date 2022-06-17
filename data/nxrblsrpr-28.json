@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "nxrblsrpr",
+  "address": "0x61BE34fFb735B792ad9126E5b0e4c00b0f5e1273",
+  "risk": "2",
+  "title": "Use call() instead of transfer() on a payable address",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/28"
+}
