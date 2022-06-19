@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "3",
+  "title": "ProposalStore: AddProposal function lacks access control",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/51"
+}
