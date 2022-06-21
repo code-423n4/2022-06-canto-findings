@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "Tutturu",
+  "address": "0xc8A47E7E7976f85E581F0200A207bB682d9194E4",
+  "risk": "2",
+  "title": "CNote: Attacker can frontrun the calling of _setAccountantContract and gain admin priviledges and insert a malicious accountant contract",
+  "issueId": 181,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/181"
+}
