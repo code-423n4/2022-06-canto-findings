@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "saian",
+  "address": "0x41866fbD59371800a7A6A2e314641CD69Cd7247D",
+  "risk": "2",
+  "title": "`WETH#approve` can be used to steal user balances",
+  "issueId": 226,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/226"
+}
