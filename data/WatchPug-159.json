@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`lending-market/CNote.sol` DoS attack by sending 1 wei of NOTE to the `CNote` contract can break `borrowFresh` and `repayBorrowFresh`",
+  "issueId": 159,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/159"
+}
