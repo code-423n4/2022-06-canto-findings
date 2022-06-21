@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "zzzitron",
+  "address": "0x50B6d717429F56527676d2431aAA5b3f0FA26a93",
+  "risk": "2",
+  "title": "newblockchain report: twap reserve calculate desired overflow in BaseV1-core",
+  "issueId": 268,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/268"
+}
