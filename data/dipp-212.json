@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "dipp",
+  "address": "0x675454Ae78d25632fC26763Fa9CB72a99Cb0A36e",
+  "risk": "2",
+  "title": "Queued proposals cannot be executed in ```GovernorBravoDelegate.sol```",
+  "issueId": 212,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/212"
+}
