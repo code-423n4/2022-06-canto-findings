@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "Tutturu",
+  "address": "0xc8A47E7E7976f85E581F0200A207bB682d9194E4",
+  "risk": "2",
+  "title": "Attacker can frontrun calling _mint_to_Accountant() which mints the entire supply to the caller, and sets them as _accountant and admin",
+  "issueId": 203,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/203"
+}
