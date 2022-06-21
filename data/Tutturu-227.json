@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "Tutturu",
+  "address": "0xc8A47E7E7976f85E581F0200A207bB682d9194E4",
+  "risk": "3",
+  "title": "Transferring any amount of the underlying token to the CNote contract will make the contract functions unusable",
+  "issueId": 227,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/227"
+}
