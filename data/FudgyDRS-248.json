@@ -1,0 +1,9 @@
+{
+  "contest": 133,
+  "handle": "FudgyDRS",
+  "address": "0x1C77905fEAfD85f7fdeD7aD5f871F93C2B11dcfF",
+  "risk": "2",
+  "title": "Stack too deep error within BaseV1-periphery.sol",
+  "issueId": 248,
+  "issueUrl": "https://github.com/code-423n4/2022-06-newblockchain-findings/issues/248"
+}
