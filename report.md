@@ -1,3 +1,11 @@
+---
+sponsor: "Canto"
+slug: "2022-06-canto"
+date: "2022-10-18"
+title: "Canto contest"
+findings: "https://github.com/code-423n4/2022-06-canto-findings/issues"
+contest: 133
+---
 
 # Overview
 
